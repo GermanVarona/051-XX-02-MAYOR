@@ -1,6 +1,7 @@
 # **051-XX-02-MAYOR**
-Mayor de dos números
+## Mayor de dos números
 ## *TP #2 German O. Varona 148.747-4*
+
 ## Indice
 [Enunciado](#enunciado)
 
