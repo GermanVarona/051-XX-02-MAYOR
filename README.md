@@ -21,9 +21,5 @@
 ### Algoritmo
 - a,b ∈ R
 
-|Notacion N-S|
-| ----- |
-| Leer a |
-| Leer b |
-| Escribir a si a>b |
-| Escribir b si b>a |
+![P2](https://fotos.subefotos.com/9bc78204e44389ce604786e9ddb60464o.jpg)
+
