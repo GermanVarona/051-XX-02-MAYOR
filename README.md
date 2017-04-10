@@ -10,7 +10,7 @@
 [Algoritmo](#algoritmo)
 
 ### Enunciado
-- Dados dos numeros informar cuál es el mayor.
+- Dados dos números informar cuál es el mayor.
 
 
 ### Analisis de problema
