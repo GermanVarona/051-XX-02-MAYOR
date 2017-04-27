@@ -1,6 +1,6 @@
 # **051-XX-03-Repetición**
 ## Repetición de Frase
-## *TP #2 German O. Varona 148.747-4*
+## *TP #3 German O. Varona 148.747-4*
 
 ## Indice
 [Enunciado](#enunciado)
@@ -16,9 +16,9 @@
 - • Iterativa esctructurada.
 
 ### Analisis de problema
-- a ∈ R
+- a,n ∈ R
 
-![P1](https://fotos.subefotos.com/a02dfa167d1775d57eda917bf1064477o.jpg)
+![P3](https://fotos.subefotos.com/32cef9f99f92d28d967c6df8970bf1a5o.jpg)
 
 ### Algoritmo
 - a,b ∈ R
